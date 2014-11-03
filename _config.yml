@@ -1,0 +1,16 @@
+# Site settings
+title: Eat Code Travel
+email: orlando@orlandodelaguila.com
+description: "Here I write about 3 things I love. Eating, coding and traveling."
+baseurl: ""
+url: "https://www.eatcodetravel.com"
+twitter_username: odelaguila
+github_username:  orlando
+facebook_username: odelaguila
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]

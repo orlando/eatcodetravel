@@ -1,4 +1,1 @@
-eatcodetravel
-=============
-
-Eat Code Travel Blog
+# eat code travel
